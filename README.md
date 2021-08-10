@@ -1,3 +1,7 @@
+# Hulu-2.0 clone
+
+A responsive Hulu clone app made for web and mobile built with Next.js and Tailwind CSS that pulls a API from a movie/TV database and renders those movies and TV shows onto a page with details about them.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
